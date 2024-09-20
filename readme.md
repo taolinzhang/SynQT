@@ -30,7 +30,7 @@ This codebase was tested with the following environment configurations. It may w
 ## Datasets
 Please follow [VPT](https://github.com/KMnP/vpt/blob/main) to download the VTAB-1K and FGVC benchmarks. 
 
-Note that we utilize images in PNG format, so we have also uploaded the extracted VTAB-1k dataset to [Hugging Face](https://huggingface.co/datasets/iridescentttt/vtab-1k-png) for your convenience. 
+Note that we utilize images in PNG format, so we have also uploaded the extracted VTAB-1k dataset to [OpenDataLab](https://openxlab.org.cn/datasets/iridescentttt/vtab-1k-png) for your convenience. 
 
 ## Pretrained Model
 Download the pretrained [ViT-B/16](https://storage.googleapis.com/vit_models/imagenet21k/ViT-B_16.npz) to `ckpt/21k.npz`
