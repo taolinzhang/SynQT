@@ -1,0 +1,8 @@
+name: cifar
+class_num: 100
+scale: 0.1
+xavier_init: false
+attn_scale: 1.0
+token_nums: 4
+feat_scale: 0.1
+ffn_scale: 0.1

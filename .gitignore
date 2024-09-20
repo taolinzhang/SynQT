@@ -1,0 +1,6 @@
+wandb
+*.pth
+*.pdf
+embed/
+ckpt
+log*

@@ -1,0 +1,8 @@
+name: resisc45
+class_num: 45
+scale: 10
+xavier_init: false
+attn_scale: 0.1
+token_nums: 4
+feat_scale: 0.1
+ffn_scale: 0.1

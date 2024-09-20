@@ -1,0 +1,8 @@
+name: clevr_count
+class_num: 8
+scale: 1
+xavier_init: false
+attn_scale: 0.1
+token_nums: 16
+feat_scale: 0.1
+ffn_scale: 0.1

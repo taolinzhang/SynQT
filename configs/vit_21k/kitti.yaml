@@ -1,0 +1,8 @@
+name: kitti
+class_num: 4
+scale: 10
+xavier_init: true
+attn_scale: 1.0
+token_nums: 16
+feat_scale: 0.1
+ffn_scale: 0.1

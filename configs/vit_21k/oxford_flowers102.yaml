@@ -1,0 +1,8 @@
+name: oxford_flowers102
+class_num: 102
+scale: 0.1
+xavier_init: true
+attn_scale: 0.1
+token_nums: 4
+feat_scale: 0.1
+ffn_scale: 0.1

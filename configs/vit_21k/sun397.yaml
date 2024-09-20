@@ -1,0 +1,8 @@
+name: sun397
+class_num: 397
+scale: 0.1
+xavier_init: false
+attn_scale: 1.0
+token_nums: 1
+feat_scale: 0.1
+ffn_scale: 0.1
