@@ -1,6 +1,6 @@
 ## Parameter-Efficient and Memory-Efficient Tuning for Vision Transformer: A Disentangled Approach
 
-### [[Paper](https://arxiv.org/abs/2402.15648)] 
+### [[Paper](https://arxiv.org/abs/2407.06964)] 
 
 
 
